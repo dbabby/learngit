@@ -1,0 +1,1 @@
+git diff HEAD -- filename 显示工作区与版本库最新版本的区别
