@@ -15,3 +15,5 @@ Git鼓励大量使用分支：
 删除分支：git branch -d <name>
 
 推送本地到远程master:git push origin master
+
+git log --graph --pretty=oneline --abbrev-commit  
